@@ -4,3 +4,7 @@
 /DockPanel Changing.txt
 /Output
 /*.suo
+/Libraries/DockPanel Suite/*.suo
+/Libraries/MdiTabControl/_ReSharper.MdiTabControl
+/Libraries/MdiTabControl/_UpgradeReport_Files
+/Libraries/MdiTabControl/UpgradeLog.XML
